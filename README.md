@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I'm a passionate programmer thats interested in all things that relate to coding. I build any projects that just seem fun and interesting to me. I love anime so it's cool whenever I can combine both of my interests in one project. I'm trying to get into making my projects public here and allowing people to use them even if I think they are useless.
+I like to build stuff
 
 <!--
 **BeastieNate5/BeastieNate5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
